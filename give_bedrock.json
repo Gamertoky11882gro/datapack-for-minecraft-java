@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "interact_with_command_block": {
+        "trigger": "minecraft:interact_with_block",
+        "conditions": {
+          "block": "minecraft:command_block"
+        }
+      }
+    },
+    "rewards": {
+      "function": "your_namespace:give_bedrock"
+    }
+  }
+  
