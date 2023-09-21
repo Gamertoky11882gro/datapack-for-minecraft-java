@@ -1,7 +1,8 @@
 {
-    "pack": {
-      "pack_format": 7,
-      "description": "Your Datapack Description Here"
-    }
+  "pack": {
+    "pack_format": 7,
+    "description": "Your Datapack Description Here",
+    "name": "Your Datapack Name",
+    "version": "1.0.0"
   }
-  
+}
